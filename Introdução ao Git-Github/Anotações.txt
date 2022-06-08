@@ -1,6 +1,9 @@
 Link para Download do Git
 https://git-scm.com/downloads
 
+### Não esquecer
+- Primeiro Commit e depois Push
+
 ## Comandos
 
 1. Dir
@@ -43,7 +46,7 @@ Deleta o repositório
 
 - Git init
 - Git add .
-- Git commit
+- Git commit -m +(Mensagem motivo da alteração)
 - Git status
 
 ## Comandos úteis
@@ -51,10 +54,10 @@ Deleta o repositório
 1. LS -a
 Mostra arquivos ocultos
 
-2. Git push origin master
+2. Git push origin master ou main
 Envia do repositório local para o servidor
 
-3. Git pull origin master
+3. Git pull origin master ou main
 Puxa do repositório servidor para o repositório local
 
 4. Git clone + URL(origem da cópia)
