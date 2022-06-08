@@ -1,10 +1,13 @@
 Link para Download do Git
 https://git-scm.com/downloads
 
-### Não esquecer
+Sequência:
 - Primeiro Commit e depois Push
+1. Git add .
+2. Git commit -m "Motivo da Alteração"
+3. Git push origin main
 
-## Comandos
+Comandos
 
 1. Dir
 Trás uma lista de diretórios contidos na pasta
@@ -27,7 +30,7 @@ Limpa a tela
 7. Tecla TAB
 Auto completa
 
-8.Mkdir+(Nome da pasta(
+8. Mkdir+(Nome da pasta)
 Cria pasta
 
 9. Echo+Palavra
@@ -39,17 +42,17 @@ Cria um arquivo de texto
 11. Del+(Nome da pasta ou arquivo)
 Deletar arquivos
 
-12.Rmdi+(Nome da pasta) /S /Q
+12. Rmdi+(Nome da pasta) /S /Q
 Deleta o repositório
 
-## Comandos Iniciais
+Comandos Iniciais
 
 - Git init
 - Git add .
-- Git commit -m +(Mensagem motivo da alteração)
+- Git commit -m +" Mensagem motivo da alteração "
 - Git status
 
-## Comandos úteis
+ Comandos úteis
 
 1. LS -a
 Mostra arquivos ocultos
