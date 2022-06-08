@@ -1,3 +1,61 @@
 Link para Download do Git
 https://git-scm.com/downloads
 
+## Comandos
+
+1. Dir
+Trás uma lista de diretórios contidos na pasta
+
+2. CD /
+Vai para dentro da pasta
+
+3. CD+(Nome da pasta)
+Vai para dentro da pasta selecionada
+
+4. CD ..
+Volta 1 nível de pasta
+
+5. CLS
+Limpa a tela
+
+6. CTRL+L
+Limpa a tela
+
+7. Tecla TAB
+Auto completa
+
+8.Mkdir+(Nome da pasta(
+Cria pasta
+
+9. Echo+Palavra
+Ele te `devolve`a palavra
+
+10. Echo + Palavra> palavra.txt
+Cria um arquivo de texto
+
+11. Del+(Nome da pasta ou arquivo)
+Deletar arquivos
+
+12.Rmdi+(Nome da pasta) /S /Q
+Deleta o repositório
+
+## Comandos Iniciais
+
+- Git init
+- Git add .
+- Git commit
+- Git status
+
+## Comandos úteis
+
+1. LS -a
+Mostra arquivos ocultos
+
+2. Git push origin master
+Envia do repositório local para o servidor
+
+3. Git pull origin master
+Puxa do repositório servidor para o repositório local
+
+4. Git clone + URL(origem da cópia)
+Para clonar repositóro do servidor para repositório local

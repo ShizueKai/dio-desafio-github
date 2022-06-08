@@ -1,0 +1,19 @@
+## Objetos do Git
+
+1. Blobs
+- Guarda o Sha1 do arquivo
+- (Tipo, tamanho...) basico de composição
+
+2. Tree
+- Armazenam os Blobs
+- Responsável por manter a estrutura dos arquivos
+
+3. Commit
+É o objeto que junta tudo!
+Aponta para~
+- Tree
+- Parente (Ultimo commit realizado)
+- Autor
+- Mensagem
+- Timestamp da criação
+- Sha1
