@@ -7,7 +7,7 @@
 - 1994: Uso comercial no Brasil
 - 2000: Banda Larga
 
-[Primeiro Domínio Criado] (https://symbolics.com/)
+[Primeiro Domínio Criado](https://symbolics.com/).
 
 ~>Primeiro Blog criado foi por um brasileiro Claudoio Pinhanez, cientista no MIIT Media Lab. Foi chamad
 o de Open Diary.
